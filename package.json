@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "slick-slider": "^1.8.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "webpack": "^5.89.0"
+  }
+}
