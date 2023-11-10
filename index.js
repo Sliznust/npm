@@ -1,15 +1,4 @@
-function test() {
-	let num;
-	
-	function func() {
-		console.log(num);
-	}
-	
-	num = 1
-	func();
-	
-	num = 2
-	func();
-}
-
-test();
+let inp = document.querySelector('input');
+inp.addEventListener('blur', ()=>{
+	console.log(inp.value);
+})

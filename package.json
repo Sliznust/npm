@@ -1,11 +1,15 @@
 {
   "dependencies": {
-    "jquery": "^3.7.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.20",
     "slick-slider": "^1.8.2"
   },
-  "devDependencies": {
-    "gulp": "^4.0.2",
-    "webpack": "^5.89.0"
-  }
+  "name": "test",
+  "version": "2.2.1",
+  "description": "\"message\"\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
